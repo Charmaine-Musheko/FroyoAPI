@@ -4,17 +4,18 @@
         {
             "id": 1,
             "title": "Berry Ruby Chocolate",
-            "image": "https://images.unsplash.com/photo-1613482084248-ab36d58bab87?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80",
+            "image": "https://images.unsplash.com/photo-1613482084248-ab36d58bab87?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80"
         },
         {
             "id": 2,
             "title": "Black Cherry Chart",
-            "image": "https://images.unsplash.com/photo-1621797350487-c8996f886ab1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+            "image": "https://images.unsplash.com/photo-1621797350487-c8996f886ab1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
         },
         {
             "id": 3,
             "title": "Creamy Peanut Butter",
-            "image": "https://images.unsplash.com/photo-1558498619-10b916ad7e46?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1413&q=80",
+            "image": "https://images.unsplash.com/photo-1558498619-10b916ad7e46?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1413&q=80"
         }
     ]
+    
 }

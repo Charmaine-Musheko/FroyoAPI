@@ -1,6 +1,6 @@
 
 {
-    "Flavours": [
+    "flavours": [
         {
             "id": 1,
             "title": "Berry Ruby Chocolate",
@@ -16,6 +16,12 @@
             "title": "Creamy Peanut Butter",
             "image": "https://images.unsplash.com/photo-1558498619-10b916ad7e46?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1413&q=80"
         }
-    ]
+    ],
+    "profile": { 
+      "id": 1,
+      "username": "Charmaine",
+      "email": "mushekot@gmail.com"
+    }
+    
     
 }
